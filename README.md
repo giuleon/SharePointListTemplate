@@ -1,4 +1,4 @@
-# How to create custom site templates in SharePoint online
+# How to create custom list templates in SharePoint online
 
 This is an example of how to create organization list templates in SharePoint online:
 
